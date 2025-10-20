@@ -1,2 +1,2 @@
 # -ATIVIDADE-BIOGRAFIA-EM-HTML.
-## https://github.com/GAlmeida-tech/-ATIVIDADE-BIOGRAFIA-EM-HTML..git
+## https://galmeida-tech.github.io/-ATIVIDADE-BIOGRAFIA-EM-HTML./
